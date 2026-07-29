@@ -1,6 +1,6 @@
 <h1 align="center">Nathan Mukunga Ngoyi</h1>
 <p align="center">
-  <b>Machine Learning Engineer</b> · Full-Stack Developer · Founder of NEXIS Intelligence Systems
+  <b>Machine Learning Engineer</b> with a full-stack engineering background · Founder of NEXIS Intelligence Systems
 </p>
 <p align="center">
   <a href="https://nathanmukunga.vercel.app">Portfolio</a> ·
@@ -46,8 +46,8 @@ AI assistants and automation for businesses.
 |---|---|---|
 | **[NEXIS Intelligence Systems](https://www.nexis-system.com)** | Business platform with an AI assistant, lead capture and automation | JS · Express · OpenAI · Supabase |
 | **Semestra** | Collaborative AI study-planning platform (team project) | Next.js · TypeScript · Supabase |
-| **[Project name]** | End-to-end predictive model served as a REST API | Python · scikit-learn · FastAPI · Docker |
-| **[Project name]** | Fine-tuned NLP model with evaluation pipeline | PyTorch · Transformers · FastAPI |
+| **[Project]** | End-to-end predictive model served as a REST API | Python · scikit-learn · FastAPI · Docker |
+| **[Project]** | Fine-tuned NLP model with evaluation pipeline | PyTorch · Transformers · FastAPI |
 
 ### Reach me
 
