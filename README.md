@@ -27,7 +27,7 @@ AI assistants and automation for businesses.
 
 - 🔭 Building end-to-end ML services: data → model → API → deployment → monitoring
 - 🌱 Deepening **scikit-learn**, **PyTorch**, **MLOps** (FastAPI, Docker, MLflow) and applied statistics
-- 🧠 Specialising in **NLP and LLM systems** — fine-tuning, RAG pipelines, evaluation
+- 🧠 Specialising in **NLP and LLM systems** - RAG pipelines, evaluation
 - 🤝 Open to collaborating on applied ML projects, especially anything involving real data and real users
 
 ### Tech
